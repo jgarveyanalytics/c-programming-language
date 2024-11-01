@@ -1,0 +1,4 @@
+hello_err2.c: In function ‘main’:
+hello_err2.c:13:9: error: expected declaration or statement at end of input
+   13 |         printf("hello, world\n");
+      |         ^~~~~~
