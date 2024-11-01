@@ -1,0 +1,3 @@
+hello_err3.c:11:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+   11 | main()
+      | ^~~~
